@@ -151,12 +151,14 @@
 .history {
     font-size: larger;
 }
+@media(max-width:576px) {
 
 .image {
     width: 70%;
     border: 2px solid rgba(75, 74, 74, 0.969);
     border-radius: 11px;
 
+}
 }
 
 .visit {
