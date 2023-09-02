@@ -39,14 +39,12 @@
 
 }
 @media(max-width:576px) {
-
 .img {
     width: 100%;
     border-top-left-radius: 11px;
     border-top-right-radius: 11px;
     height: 250px;
-
-}
+  }
 }
 
 
