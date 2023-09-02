@@ -199,9 +199,11 @@ span {
     color: white;
     font-weight: bold;
 }
+@media(max-width:576px) {
 
 .pro {
     padding-top: 50px;
+}
 }
 
 .bn0 {
