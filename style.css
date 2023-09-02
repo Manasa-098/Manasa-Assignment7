@@ -216,10 +216,12 @@ span {
     margin: 10px;
 
 }
+@media(max-width:576px) {
 
 .cls1 {
     display: flex;
     justify-content: space-between;
+}
 }
 @media(max-width:576px) {
 
